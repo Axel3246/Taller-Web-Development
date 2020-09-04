@@ -1,0 +1,28 @@
+p {
+    color: cyan;
+}
+
+h1{
+    color: #B9FFB7;
+    font-size: 3vh;
+}
+
+h6{
+    color: rgb(230,49,244);
+}
+
+#lenguajes {
+    background-color: #758BFD;
+}
+
+.cosa{
+    background-color: #33CA7F;
+}
+
+#id{
+    background-color: green;
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
